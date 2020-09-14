@@ -1,5 +1,5 @@
 # learning_python
-This repository contains everything I used while learning python.
+This repository contains assignments I did while learning python.
 
 Datasets are in the data folder.
 
